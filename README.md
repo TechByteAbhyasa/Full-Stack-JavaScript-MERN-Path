@@ -6,13 +6,13 @@ This repository serves as my personal learning journal and quick reference guide
 
 ### **Table of Contents**
 
-* [**React**](⚛️%20react-cheat-sheet.md) ⚛️
-* [**Node.js**](🌿%20node-cheat-sheet.md) 🌿
-* [**Express.js**](🍃%20express-cheat-sheet.md) 🍃
-* [**MongoDB & Mongoose**](🍃%20mongodb-cheat-sheet.md) 🍃
-* [**Web Stack Basics**](🌐%20web-stack-cheat-sheet.md) 🌐
-* [**Git & GitHub**](🐙%20git-github-cheat-sheet.md) 🐙
-* [**Tips and Tricks**](📝%20tips-and-tricks.md) 📝
+* [**⚛️ React**](⚛️%20react-cheat-sheet.md) 
+* [**🌿 Node.js**](🌿%20node-cheat-sheet.md) 
+* [**🍃 Express.js**](🍃%20express-cheat-sheet.md) 
+* [**🍃 MongoDB & Mongoose**](🍃%20mongodb-cheat-sheet.md) 
+* [**🌐 Web Stack Basics**](🌐%20web-stack-cheat-sheet.md) 
+* [**🐙 Git & GitHub**](🐙%20git-github-cheat-sheet.md) 
+* [**📝 Tips and Tricks**](📝%20tips-and-tricks.md) 
 
 ---
 
